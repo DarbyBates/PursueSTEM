@@ -1,6 +1,7 @@
 #How to open and run the Spotify Activity Code
 
 Steps to open and run the Spotify Activity Python Code:
+
 0. Download the .csv file and .ipynb file in this Spotify Activity folder to your computer. Be sure you know where they are saved!
 1. In your browser, login to your gmail account.
 2. In the same browser, go to https://colab.research.google.com/
